@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<project name = "Create_Dir" default = "init">
+	<target name="init">
+		<mkdir dir="dir1"/>
+		<echo> "Hi" </echo>
+	</target>
+</project> 
